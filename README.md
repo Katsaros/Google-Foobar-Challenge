@@ -15,4 +15,4 @@ Level 2: 100% [==========================================]
 Level 3:  33% [=============.............................]
 ```
 ### Screenshot from FooBar CLI
-![](current_status.png)
+![](current_status_level3a.png)
