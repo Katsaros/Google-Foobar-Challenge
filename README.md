@@ -6,6 +6,9 @@ Link: [foobar.withgoogle.com](https://foobar.withgoogle.com/)
 ## Invitation
 ![](invitation.jpg)
 
+## First Screen
+![](first_screen.png)
+
 ## Status
 ```bash
 Level 1: 100% [==========================================]
