@@ -24,4 +24,4 @@ Level 4:   0% [..........................................]
 ![](current_status_level4.png)
 
 ### Screenshot after passing level 3
-![](shared_my_profile_to_a Google_recruiter.png)
+![](shared_my_profile_to_a_Google_recruiter.png)
