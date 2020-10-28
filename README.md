@@ -20,5 +20,8 @@ Level 3: 100% [==========================================]
 Level 4:   0% [..........................................]
 
 ```
-### Screenshot from FooBar CLI
+### Screenshot from FooBar CLI current status
 ![](current_status_level4.png)
+
+### Screenshot after passing level 3
+![](shared_my_profile_to_a Google_recruiter.png)
