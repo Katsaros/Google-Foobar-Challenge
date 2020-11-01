@@ -9,20 +9,13 @@ Link: [foobar.withgoogle.com](https://foobar.withgoogle.com/)
 ## First Screen
 ![](first_screen.png)
 
-## Status
-```bash
-Level 1: 100% [==========================================]
-
-Level 2: 100% [==========================================]
-
-Level 3: 100% [==========================================]
-
-Level 4:  50% [=====================.....................]
-
-Level 5:   0% [..........................................]
+## Development
+```txt
+All the solutions developed in Java 8+ by verifying and submitting the given file Solution.java, in every Foobar level/problem.
 ```
-### Screenshot from FooBar CLI current status
+
+## Screenshot from FooBar CLI current Status
 ![](current_status_level4b.png)
 
-### Screenshot after passing level 3
+## Screenshot after passing level 3
 ![](shared_my_profile_to_a_Google_recruiter.png)
