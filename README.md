@@ -14,7 +14,8 @@ Link: [foobar.withgoogle.com](https://foobar.withgoogle.com/)
 All the solutions developed in Java 8+ by verifying and submitting the given file Solution.java, in every Foobar level/problem.
 ```
 
-## Screenshot from FooBar CLI current Status
+## Current Status
+##### Screenshot from FooBar CLI
 ![](current_status_level4b.png)
 
 ## Screenshot after passing level 3
