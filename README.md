@@ -16,7 +16,7 @@ All the solutions developed in Java 8+ by verifying and submitting the given fil
 
 ## Current Status
 ##### Screenshot from FooBar CLI
-![](current_status_level4b.png)
+![](current_status_level5.png)
 
 ## Screenshot after passing level 3
 ![](shared_my_profile_to_a_Google_recruiter.png)
