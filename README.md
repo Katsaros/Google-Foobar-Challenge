@@ -1,4 +1,4 @@
-# Google Foobar Challenge
+# Google FooBar Challenge
 I participate in Google FooBar Challenge and I completed all the 5 levels.
 
 Link: [foobar.withgoogle.com](https://foobar.withgoogle.com/)
@@ -13,7 +13,7 @@ After you request for the challenge you will we having some files and the questi
 The question can be solved in either in JAVA or Python.<br>
 In total, you have **5 levels** and **9 questions** to solve.
 
-### My Experience with the Google Foo Bar Challenge
+### My Experience with the Google FooBar Challenge
 The Google Foobar page is not accessible to everyone.<br>
 Getting the invitation for Google Foobar is also a mysterious thing, no one exactly knows the criteria for the Google Foobar invitation eligibility.<br>
 Google send the invitation on the basis of your search history and your problem solving related keyword searches.<br>
