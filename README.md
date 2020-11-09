@@ -55,7 +55,7 @@ There are two questions at this level with the time of seventy-two hours to solv
 Both the questions were based on the basic principles of linear algebra and mathematics.
 
 **Level 3**<br>
-The third level had 3 questions, with a time of 4 days for the first question and 7 days for the other two question.
+The third level had 3 questions, with a time of 4 days for the first question and 7 days for the other two questions.
 To solve these questions, it required a good knowledge of mathematics and programming concepts like dynamic programming, Markov’s chaining, etc.
 After the 3rd level, I was asked to fill out my details for being contacted by a Google recruiter.
 They ask your basic information: name, phone number, email address, country etc.
