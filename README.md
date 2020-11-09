@@ -51,7 +51,7 @@ The first level was very similar to an interview question.
 You get 2 days to do it. I completed it quickly.
 
 **Level 2**<br>
-There are two questions at this level with the time of seventy-two hours to solve each question. 
+There are two questions at this level with the time of 72 hours to solve each question. 
 Both the questions were based on the principles of linear algebra and mathematics.
 
 **Level 3**<br>
@@ -61,13 +61,13 @@ After the 3rd level, I was asked to fill out my details for being contacted by a
 They ask your basic information: name, phone number, email address, country etc.
 
 **Level 4**<br>
-There are a total of two questions at this level and time of a total of two weeks is given to solve each question.
+There are a total of two questions at this level and time of a total of 15 days is given to solve each question.
 This level required the implementation of several concepts to solve a single problem. 
 Extensive knowledge of algorithms and data structures is required at this level.
 The questions were based on the concept of number theory and graphs.
 
 **Level 5**<br>
-The final level only had a single question and twenty-two days were given to solve that problem, but I managed to solve it in 22 **hours**.
+The final level only had a single question and **22 days** were given to solve that problem, but I managed to solve it in **22 hours**.
 The fifth level was purely mathematical. 
 It was related to permutations, Beatty sequence, and the development of an implementation of exponentially decreasing complexity.
 
