@@ -19,7 +19,7 @@ Getting the invitation for Google Foobar is also a mysterious thing, no one exac
 Google send the invitation on the basis of your search history and your problem solving related keyword searches.<br>
 And based on Google search algorithms, they show you an invitation for Google Foobar.<br>
 
-The invitation message reads like this: ***"Curious developers are known to seek interesting problems. Solve one from Google!"***
+The invitation message reads like this:<br>***"Curious developers are known to seek interesting problems. Solve one from Google?"***
 
 ## Invitation
 ![](invitation.jpg)
