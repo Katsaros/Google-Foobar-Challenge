@@ -77,4 +77,4 @@ It was related to permutations, Beatty sequence, and the development of an imple
 I would say this is a great opportunity to learn and I would recommend you to solve the questions if you get an invitation.<br>
 While solving the problems don’t keep your aim to get hired at Google but to learn the new techniques and experience one of the best coding challenges. And remember, 
 **Foobar is more about learning and implementing, instead of knowing everything before!**<br><br>
-If you have any questions, please contact me at [linkedin](https://www.linkedin.com/in/giannis-katsaros/)
+If you have any questions, please contact me at [linkedin](https://www.linkedin.com/in/giannis-katsaros/).
