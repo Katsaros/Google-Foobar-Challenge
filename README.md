@@ -52,7 +52,7 @@ You get 2 days to do it. I completed it quickly.
 
 **Level 2**<br>
 There are two questions at this level with the time of seventy-two hours to solve each question. 
-Both the questions were based on the basic principles of linear algebra and mathematics.
+Both the questions were based on the principles of linear algebra and mathematics.
 
 **Level 3**<br>
 The third level had 3 questions, with a time of 4 days for the first question and 7 days for the other two questions.
