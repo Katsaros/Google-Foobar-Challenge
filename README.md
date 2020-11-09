@@ -1,5 +1,5 @@
 # Google FooBar Challenge
-I participate in Google FooBar Challenge and I completed all the 5 levels.
+I participated in Google FooBar Challenge and I completed all 5 levels.
 
 Link: [foobar.withgoogle.com](https://foobar.withgoogle.com/)
 
