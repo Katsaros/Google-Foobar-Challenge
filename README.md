@@ -32,7 +32,7 @@ The invitation message reads like this:<br>***Curious developers are known to se
 - The decryption script developed in Python, using "giannis.katsaros" as secret key for the base64 string.
 
 ## Status
-##### Screenshot after passing level 3
+##### Screenshot from FooBar CLI after passing level 3
 ![](shared_my_profile_to_a_Google_recruiter.png)
 ##### Screenshot from FooBar CLI after passing level 4
 ![](current_status_level5.png)
