@@ -37,7 +37,7 @@ The invitation message reads like this:<br>***Curious developers are known to se
 ##### Screenshot from FooBar CLI after passing level 4
 ![](current_status_level5.png)
 ##### Screenshot from FooBar CLI after passing level 5
-![](completed_all_levels.png)
+![](Completed_all_levels.png)
 
 ## Encrypted/Decrypted Message
 ![](encrypted_message.png)
