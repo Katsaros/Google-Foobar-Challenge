@@ -9,8 +9,8 @@ Google uses this to hire some of the best developers around the globe which they
 Once you accept the invite, you will be taken to a website in which you are given a question and a time limit and you have to finish the question within the limit or you fail.<br><br>
 If you are able to solve the problem, you can request a new one and eventually move on to higher levels.<br>
 But if you fail to complete a question, then you will no longer be able to request new problems.<br><br>
-After you request for the challenge you will we having some files and the question to solve.<br>
-The question can be solved in either in JAVA or Python.<br>
+After you request the challenge you will receive some files and a question to solve.<br>
+The question can be solved in either JAVA or Python.<br>
 In total, you have **5 levels** and **9 questions** to solve.
 
 ### My Experience with the Google FooBar Challenge
